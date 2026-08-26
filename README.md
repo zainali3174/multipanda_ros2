@@ -165,7 +165,7 @@ cd ~
 mkdir -p UET_BRIDGE
 cd UET_BRIDGE
 git clone --recursive https://github.com/zainali3174/bridge-robotics-bootcamp.git
-cd multipanda_ros2
+cd bridge-robotics-bootcamp
 ```
 
 Set up and enter the container:
@@ -253,7 +253,7 @@ git clone --recursive https://github.com/zainali3174/bridge-robotics-bootcamp.gi
 2. Change into the cloned repository:
 
 ```bash
-cd multipanda_ros2
+cd bridge-robotics-bootcamp
 ```
 
 3. Build the docker image by running one command (takes some time):
