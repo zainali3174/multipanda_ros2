@@ -164,7 +164,7 @@ Clone the repository:
 cd ~
 mkdir -p UET_BRIDGE
 cd UET_BRIDGE
-git clone --recursive https://github.com/zainali3174/multipanda_ros2.git
+git clone --recursive https://github.com/zainali3174/bridge-robotics-bootcamp.git
 cd multipanda_ros2
 ```
 
@@ -247,7 +247,7 @@ newgrp docker
 1. Clone the repository recursively to include **mujoco_ros_pkgs**:
 
 ```bash
-git clone --recursive https://github.com/zainali3174/multipanda_ros2.git
+git clone --recursive https://github.com/zainali3174/bridge-robotics-bootcamp.git
 ```
 
 2. Change into the cloned repository:
